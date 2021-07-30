@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952610175908",
+    "project_id": "chatbook-1901b",
+    "storage_bucket": "chatbook-1901b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952610175908:android:82b646a637e149c63e1f31",
+        "android_client_info": {
+          "package_name": "com.frequency.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952610175908-t24i5n5h7lnsekr0m5l25bsu9uc5a7hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYcM9zHn52pxRBaZLOYb-vziL6edMJiow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952610175908-t24i5n5h7lnsekr0m5l25bsu9uc5a7hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
